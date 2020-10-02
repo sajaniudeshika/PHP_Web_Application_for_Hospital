@@ -1,0 +1,14 @@
+.side_bar{
+  background-color: #262626;
+  color: white;
+  height:720px;
+  padding-top: 0;
+  margin-left: 10px;
+}
+#heading{
+  padding-top: 20px;
+  text-align: center;
+}
+#item-buttons{
+  width:150px;
+}
